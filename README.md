@@ -1,6 +1,7 @@
 # Levar's Boot.dev Achievements
 
 <p align="center">
+<a href="https://www.boot.dev/u/lev2pr0">  
   <img src="https://github.com/bootdotdev/bootdev/assets/4583705/7a1184f1-bb43-45fa-a363-f18f8309056f" style="width:200px;" />
 </p>
 
@@ -9,7 +10,7 @@
 This Achievement Tracker helps me track my progress and milestones on Boot.dev. It keeps my achievements visible and keeps me motivated as I work through the Backend Developer Career Path (Python/Go).
 
 - 👨🏽‍💻 [Levar's Boot.dev Profile](https://www.boot.dev/u/lev2pr0)
-- 📚 [Boot.dev Curriculum](https://www.boot.dev/tracks/backend-python-golang)
+- 📚 [Boot.dev Backend Developer Curriculum](https://www.boot.dev/tracks/backend-python-golang)
 - ⭐ [Boot.dev Teaching and Learning Philosophy](https://blog.boot.dev/about/)
 
 </br>
