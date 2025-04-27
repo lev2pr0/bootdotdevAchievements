@@ -7,16 +7,24 @@
 ## Purpose
 [Boot.dev Profile](https://www.boot.dev/u/lev2pr0)
 
+<!---
+## Guided Projects - Repositories' Table of Contents
+
+- [Backend Developer Career Path](#backend-developer-career-path)
+- [DevOps Career Path](#devops-career-path)
+- [Data Analyst Career Path](#data-analyst-career-path)
+- [Notes](#notes)
+--->
 
 
 ## Backend Developer Career Path - Python/Go
 
-| Completed Course Name                | Course Links                                                                                 |
-| ------------------------------------ | -------------------------------------------------------------------------------------------- |
-| [Learn Coding Basics]()              | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
+| Course Name and Certificates                                                                               | Course Links                                                                                 |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [Learn Coding Basics](https://www.boot.dev/certificates/2b7c9a77-e8c6-443a-afc1-d6aef7d618f0)              | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
 
 <!---
-| Learn Linux                          | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                         |
+| Learn Linux                                                                                                | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                         |
 | Learn Git                            | [Git](https://www.boot.dev/courses/learn-git)                                                |
 | Build a Bookbot                      | [Python](https://www.boot.dev/courses/build-bookbot-python)                                  |
 | Learn Object Oriented Programming    | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)              |
