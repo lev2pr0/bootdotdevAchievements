@@ -1,22 +1,22 @@
-# Boot.dev Backend Development Career Path
+# Boot.dev Achievements 
 
 <p align="center">
   <img src="https://github.com/bootdotdev/bootdev/assets/4583705/7a1184f1-bb43-45fa-a363-f18f8309056f" style="width:200px;" />
 </p>
 
-<!---
+## Purpose
+[Boot.dev Profile](https://www.boot.dev/u/lev2pr0)
 
-## Guided Projects Table of Contents
---->
+
 
 ## Backend Developer Career Path - Python/Go
 
-| Course Name                          | Links                                                                                        |
+| Completed Course Name                | Course Links                                                                                 |
 | ------------------------------------ | -------------------------------------------------------------------------------------------- |
-| Learn Coding Basics                  | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
-| Learn Linux                          | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                         |
+| [Learn Coding Basics]()              | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
 
 <!---
+| Learn Linux                          | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                         |
 | Learn Git                            | [Git](https://www.boot.dev/courses/learn-git)                                                |
 | Build a Bookbot                      | [Python](https://www.boot.dev/courses/build-bookbot-python)                                  |
 | Learn Object Oriented Programming    | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)              |
