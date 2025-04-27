@@ -1,11 +1,13 @@
-# Boot.dev Achievements 
+# Levar's Boot.dev Achievements 
 
 <p align="center">
   <img src="https://github.com/bootdotdev/bootdev/assets/4583705/7a1184f1-bb43-45fa-a363-f18f8309056f" style="width:200px;" />
 </p>
 
 ## Purpose
-[Boot.dev Profile](https://www.boot.dev/u/lev2pr0)
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlmcmhqeWZkejFnZHV3MnU2MTIxYjczNW9ldTJmdm1leDdsaXR4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR1dPIYzQmkRzLZk2w/giphy.gif" width="200" height="200" />
+
 
 <!---
 ## Guided Projects - Repositories' Table of Contents
@@ -18,6 +20,11 @@
 
 
 ## Backend Developer Career Path - Python/Go
+
+- 📚 [Boot.dev Curriculum](https://www.boot.dev/tracks/backend-python-golang)
+- ⭐ [Boot.dev Teaching and Learning Philosophy](https://blog.boot.dev/about/)
+
+</br>
 
 | Course Name and Certificates                                                                               | Course Links                                                                                 |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -51,3 +58,11 @@
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                  |
 
 --->
+
+</br>
+
+<p align="center" 
+ 
+ **How to support?** Buy me coffee ☕️ via [Paypal](https://www.paypal.com/donate/?business=E7G9HLW2WPV22&no_recurring=1&item_name=Empowering+all+to+achieve+success+through+technology.%0A&currency_code=USD)
+
+</p>
