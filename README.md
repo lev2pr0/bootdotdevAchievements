@@ -31,12 +31,12 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 
 ## Backend Developer Career Path - Python/Go
 
-| Course Name and Certificate                                                                                | Course Link                                                                                 |
+| Course Name and Certificate                                                                                | Course Link                                                                                  |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | [Learn Coding Basics](https://www.boot.dev/certificates/2b7c9a77-e8c6-443a-afc1-d6aef7d618f0)              | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
+| [Learn Linux](https://www.boot.dev/certificates/3b7d5077-1a44-4757-91b6-0f4d0858bfd1)                      | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                         |
 
 <!---
-| [Learn Linux]()                                                                                            | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                         |
 | [Learn Git]()                                                                                              | [Git](https://www.boot.dev/courses/learn-git)                                                |
 | [Learn Object Oriented Programming]()                                                                      | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)              |
 | [Learn Functional Programming]()                                                                           | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                   |
