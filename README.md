@@ -1,4 +1,4 @@
-# Levar's Boot.dev Achievements
+# Boot.dev Achievements
 
 <p align="center">
 <a href="https://www.boot.dev/u/lev2pr0">  
