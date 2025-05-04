@@ -15,9 +15,10 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 
 </br>
 
-<!---
-## Guided Projects - Repositories' Table of Contents
 
+## Guided Projects - Repositories' Table of Contents
+<!---
+- [Build a Bookbot](https://www.boot.dev/courses/build-bookbot-python)                                 
 - [Build an Asteroids Game](https://www.boot.dev/courses/build-asteroids-python)
 - [Build an AI Agent](Python)
 - [Build a Static Site Generator](https://www.boot.dev/courses/build-static-site-generator-python)
@@ -25,9 +26,9 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 - [Build a Pokedex](https://www.boot.dev/courses/build-pokedex-cli-golang)
 - [Build a Blog Aggregator](https://www.boot.dev/courses/build-blog-aggregator-golang)
 - [Capstone Project](https://www.boot.dev/courses/build-capstone-project)
-
 --->
 
+<br></br>
 
 ## Backend Developer Career Path - Python/Go
 
@@ -54,6 +55,16 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 | [Learn Pub/Sub Architecture]()                                                                             | [Go](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)                                    |
 | [Learn to Find a Job]()                                                                                    | [Job Search](https://www.boot.dev/courses/learn-job-search)                                  |
 
+--->
+
+<br></br>
+
+## Backend Developer Career Path - Python/Go - Deeper Learning
+
+| Course Name and Certificate                                                                                | Course Link                                                                                  |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+<!--
+| [Learn Coding Basics](https://www.boot.dev/certificates/2b7c9a77-e8c6-443a-afc1-d6aef7d618f0)              | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
 --->
 
 <br></br>
