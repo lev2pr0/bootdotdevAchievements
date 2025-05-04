@@ -67,17 +67,6 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 | [Learn Coding Basics](https://www.boot.dev/certificates/2b7c9a77-e8c6-443a-afc1-d6aef7d618f0)              | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
 --->
 
-<br></br>
-
-<details>
- <summary><h4>Appreciate you taking the time to visit! 🙏🏽</h4></summary> 
- 
-**🐣 Easter egg unlocked**: *Cool penguin approves!*
-  
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJlc3FocG16eTg3bmVneWp0d3ZyNHl1ejVzejhkbG90MnY4N3k3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGsHjfmwF3VMCuNQA4/giphy.gif" width="300" height="300" />
-
-</details>
-
 <br><br/>
 
 <p align="center" 
