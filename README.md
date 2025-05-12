@@ -63,6 +63,8 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 
 | Course Name and Certificate                                                                                | Course Link                                                                                  |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [Learn Git 2](https://www.boot.dev/certificates/c233b551-3b02-4316-9f6d-a96fa8b9fdd1)                      | [Git](https://www.boot.dev/courses/learn-git-2)                                              |
+
 <!--
 | [Learn Coding Basics](https://www.boot.dev/certificates/2b7c9a77-e8c6-443a-afc1-d6aef7d618f0)              | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
 --->
