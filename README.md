@@ -17,8 +17,8 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 
 
 ## Guided Projects - Repositories' Table of Contents
-<!---
-- [Build a Bookbot](https://www.boot.dev/courses/build-bookbot-python)                                 
+- [Build a Bookbot](https://github.com/lev2pr0/bookbot)
+<!--                              
 - [Build an Asteroids Game](https://www.boot.dev/courses/build-asteroids-python)
 - [Build an AI Agent](Python)
 - [Build a Static Site Generator](https://www.boot.dev/courses/build-static-site-generator-python)
@@ -37,7 +37,7 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 | [Learn Coding Basics](https://www.boot.dev/certificates/2b7c9a77-e8c6-443a-afc1-d6aef7d618f0)              | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
 | [Learn Linux](https://www.boot.dev/certificates/3b7d5077-1a44-4757-91b6-0f4d0858bfd1)                      | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                         |
 | [Learn Git](https://www.boot.dev/certificates/35846e49-e2ff-4492-be1f-71a0330534ec)                        | [Git](https://www.boot.dev/courses/learn-git)                                                |
-
+| [Build a Bookbot](https://www.boot.dev/certificates/26647931-1816-4849-bf4f-4b0db632cd1a)                  | [Python](https://www.boot.dev/courses/build-bookbot-python)                                  |
 <!---
 | [Learn Object Oriented Programming]()                                                                      | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)              |
 | [Learn Functional Programming]()                                                                           | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                   |
