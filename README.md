@@ -19,13 +19,13 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 ## Guided Projects - Repositories' Table of Contents
 - [Build a Bookbot](https://github.com/lev2pr0/bookbot)
 <!--                              
-- [Build an Asteroids Game](https://www.boot.dev/courses/build-asteroids-python)
-- [Build an AI Agent](Python)
-- [Build a Static Site Generator](https://www.boot.dev/courses/build-static-site-generator-python)
-- [Personal Project 1](https://www.boot.dev/courses/build-personal-project-1)
-- [Build a Pokedex](https://www.boot.dev/courses/build-pokedex-cli-golang)
-- [Build a Blog Aggregator](https://www.boot.dev/courses/build-blog-aggregator-golang)
-- [Capstone Project](https://www.boot.dev/courses/build-capstone-project)
+- [Build an Asteroids Game]()
+- [Build an AI Agent]()
+- [Build a Static Site Generator]()
+- [Personal Project 1]()
+- [Build a Pokedex]()
+- [Build a Blog Aggregator]()
+- [Capstone Project]()
 --->
 
 <br></br>
@@ -38,22 +38,30 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 | [Learn Linux](https://www.boot.dev/certificates/3b7d5077-1a44-4757-91b6-0f4d0858bfd1)                      | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                         |
 | [Learn Git](https://www.boot.dev/certificates/35846e49-e2ff-4492-be1f-71a0330534ec)                        | [Git](https://www.boot.dev/courses/learn-git)                                                |
 | [Build a Bookbot](https://www.boot.dev/certificates/26647931-1816-4849-bf4f-4b0db632cd1a)                  | [Python](https://www.boot.dev/courses/build-bookbot-python)                                  |
+| [Learn Object Oriented Programming](https://www.boot.dev/certificates/1fa594db-b854-454b-a3dc-7eee3d118573)| [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)              |
+
 <!---
-| [Learn Object Oriented Programming]()                                                                      | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)              |
-| [Learn Functional Programming]()                                                                           | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                   |
-| [Learn Data Structures and Algorithms]()                                                                   | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)           |
-| [Learn Memory Management]()                                                                                | [C](https://www.boot.dev/courses/learn-memory-management-c)                                  |
-| [Learn Golang]()                                                                                           | [Go](https://www.boot.dev/courses/learn-golang)                                              |
-| [Learn Networking]()                                                                                       | Go                                                                                           |
-| [Learn HTTP Clients]()                                                                                     | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                                 |
-| [Learn SQL]()                                                                                              | [SQL](https://www.boot.dev/courses/learn-sql)                                                |
-| [Learn HTTP Servers]()                                                                                     | [Go](https://www.boot.dev/courses/learn-http-servers-golang)                                 |
-| [Learn File Storage and CDNs]()                                                                            | [Go + S3 + CloudFront](https://www.boot.dev/courses/learn-file-servers-s3-cloudfront-golang) |
-| [Learn Docker]()                                                                                           | [Docker](https://www.boot.dev/courses/learn-docker)                                          |
-| [Learn CI/CD]()                                                                                            | [Docker + GitHub + Go](https://www.boot.dev/courses/learn-ci-cd-github-docker)               |
-| [Learn Web Security]()                                                                                     | Go                                                                                           |
-| [Learn Pub/Sub Architecture]()                                                                             | [Go](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)                                    |
-| [Learn to Find a Job]()                                                                                    | [Job Search](https://www.boot.dev/courses/learn-job-search)                                  |
+| Build an Asteroids Game                                                                                    | [Python](https://www.boot.dev/courses/build-asteroids-python)                                |
+| Learn Functional Programming                                                                               | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                   |
+| Build an AI Agent                                                                                          | Python                                                                                       |
+| Learn Data Structures and Algorithms                                                                       | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)           |
+| Build a Static Site Generator                                                                              | [Python](https://www.boot.dev/courses/build-static-site-generator-python)                    |
+| Learn Memory Management                                                                                    | [C](https://www.boot.dev/courses/learn-memory-management-c)                                  |
+| Personal Project 1                                                                                         | [Your choice](https://www.boot.dev/courses/build-personal-project-1)                         |
+| Learn Golang                                                                                               | [Go](https://www.boot.dev/courses/learn-golang)                                              |
+| Learn Networking                                                                                           | Go                                                                                           |
+| Learn HTTP Clients                                                                                         | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                                 |
+| Build a Pokedex                                                                                            | [Go](https://www.boot.dev/courses/build-pokedex-cli-golang)                                  |
+| Learn SQL                                                                                                  | [SQL](https://www.boot.dev/courses/learn-sql)                                                |
+| Build a Blog Aggregator                                                                                    | [Go](https://www.boot.dev/courses/build-blog-aggregator-golang)                              |
+| Learn HTTP Servers                                                                                         | [Go](https://www.boot.dev/courses/learn-http-servers-golang)                                 |
+| Learn File Storage and CDNs                                                                                | [Go + S3 + CloudFront](https://www.boot.dev/courses/learn-file-servers-s3-cloudfront-golang) |
+| Learn Docker                                                                                               | [Docker](https://www.boot.dev/courses/learn-docker)                                          |
+| Learn CI/CD                                                                                                | [Docker + GitHub + Go](https://www.boot.dev/courses/learn-ci-cd-github-docker)               |
+| Learn Web Security                                                                                         | Go                                                                                           |
+| Learn Pub/Sub Architecture                                                                                 | [Go](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)                                    |
+| Capstone Project                                                                                           | [Your choice](https://www.boot.dev/courses/build-capstone-project)                           |
+| Learn to Find a Job                                                                                        | [Job Search](https://www.boot.dev/courses/learn-job-search)                                  |
 
 --->
 
