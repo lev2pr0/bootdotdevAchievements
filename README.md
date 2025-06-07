@@ -18,8 +18,9 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 
 ## Guided Projects - Repositories' Table of Contents
 - [Build a Bookbot](https://github.com/lev2pr0/bookbot)
+- [Build an Asteroids Game](https://github.com/lev2pr0/asteroids)
 <!--                              
-- [Build an Asteroids Game]()
+
 - [Build an AI Agent]()
 - [Build a Static Site Generator]()
 - [Personal Project 1]()
@@ -39,9 +40,9 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 | [Learn Git](https://www.boot.dev/certificates/35846e49-e2ff-4492-be1f-71a0330534ec)                        | [Git](https://www.boot.dev/courses/learn-git)                                                |
 | [Build a Bookbot](https://www.boot.dev/certificates/26647931-1816-4849-bf4f-4b0db632cd1a)                  | [Python](https://www.boot.dev/courses/build-bookbot-python)                                  |
 | [Learn Object Oriented Programming](https://www.boot.dev/certificates/1fa594db-b854-454b-a3dc-7eee3d118573)| [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)              |
+| [Build an Asteroids Game](https://www.boot.dev/certificates/84740883-6723-42f0-ad99-25ae3c4475c7)          | [Python](https://www.boot.dev/courses/build-asteroids-python)                                |
 
 <!---
-| Build an Asteroids Game                                                                                    | [Python](https://www.boot.dev/courses/build-asteroids-python)                                |
 | Learn Functional Programming                                                                               | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                   |
 | Build an AI Agent                                                                                          | Python                                                                                       |
 | Learn Data Structures and Algorithms                                                                       | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)           |
