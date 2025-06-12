@@ -41,9 +41,9 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 | [Build a Bookbot](https://www.boot.dev/certificates/26647931-1816-4849-bf4f-4b0db632cd1a)                  | [Python](https://www.boot.dev/courses/build-bookbot-python)                                  |
 | [Learn Object Oriented Programming](https://www.boot.dev/certificates/1fa594db-b854-454b-a3dc-7eee3d118573)| [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)              |
 | [Build an Asteroids Game](https://www.boot.dev/certificates/84740883-6723-42f0-ad99-25ae3c4475c7)          | [Python](https://www.boot.dev/courses/build-asteroids-python)                                |
+| [Learn Functional Programming](https://www.boot.dev/certificates/1de7d024-f398-40ed-ad5b-f64684d5a9fc)     | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                   |
 
 <!---
-| Learn Functional Programming                                                                               | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                   |
 | Build an AI Agent                                                                                          | Python                                                                                       |
 | Learn Data Structures and Algorithms                                                                       | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)           |
 | Build a Static Site Generator                                                                              | [Python](https://www.boot.dev/courses/build-static-site-generator-python)                    |
