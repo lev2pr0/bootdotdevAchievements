@@ -19,9 +19,9 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 ## Guided Projects - Repositories' Table of Contents
 - [Build a Bookbot](https://github.com/lev2pr0/bookbot)
 - [Build an Asteroids Game](https://github.com/lev2pr0/asteroids)
+- [Build an AI Agent](https://github.com/lev2pr0/aiagent)
 <!--                              
 
-- [Build an AI Agent]()
 - [Build a Static Site Generator]()
 - [Personal Project 1]()
 - [Build a Pokedex]()
