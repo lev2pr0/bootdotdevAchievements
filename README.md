@@ -13,6 +13,10 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 - 📚 [Boot.dev Backend Developer Curriculum](https://www.boot.dev/tracks/backend-python-golang)
 - ⭐ [Boot.dev Teaching and Learning Philosophy](https://blog.boot.dev/about/)
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/bb3ebf0f-1e88-46f0-8682-fa88ff98bfb4/thumbnail" >
+</p>
+
 </br>
 
 
