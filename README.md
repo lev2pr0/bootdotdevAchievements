@@ -32,7 +32,7 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 - [Capstone Project]()
 --->
 
-<br></br>
+</br>
 
 ## Backend Path - Golang
 
@@ -68,7 +68,7 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 
 --->
 
-<br></br>
+</br>
 
 ## Backend Path - Golang - Deeper Learning
 
@@ -80,7 +80,7 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 | [Learn Coding Basics](https://www.boot.dev/certificates/2b7c9a77-e8c6-443a-afc1-d6aef7d618f0)              | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
 --->
 
-<br></br>
+</br>
 
 ## Boot.dev Stats
 
