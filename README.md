@@ -46,10 +46,11 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 | [Build an Asteroids Game](https://www.boot.dev/certificates/84740883-6723-42f0-ad99-25ae3c4475c7)          | [Python](https://www.boot.dev/courses/build-asteroids-python)                                |
 | [Learn Functional Programming](https://www.boot.dev/certificates/1de7d024-f398-40ed-ad5b-f64684d5a9fc)     | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                   |
 | [Build an AI Agent](https://www.boot.dev/certificates/ea0553d7-1625-4e96-8a59-b6a0db7b00de)                | [Python](https://www.boot.dev/courses/build-ai-agent-python)                                 |
+| [Personal Project 1](https://www.boot.dev/certificates/cb8572d7-be86-4b84-8795-801a74284c71)               | [My choice](https://www.boot.dev/courses/build-personal-project-1)                           |
+
 
 
 <!---
-| Personal Project 1                                                                                         | [My choice](https://www.boot.dev/courses/build-personal-project-1)                           |
 | Learn Data Structures and Algorithms                                                                       | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)           |
 | Build a Static Site Generator                                                                              | [Python](https://www.boot.dev/courses/build-static-site-generator-python)                    |
 | Learn Memory Management                                                                                    | [C](https://www.boot.dev/courses/learn-memory-management-c)                                  |
