@@ -34,7 +34,7 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 
 </br>
 
-## Backend Path - Golang
+## Back-end Developer Path
 
 | Course Name and Certificate                                                                                | Course Link                                                                                  |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -71,7 +71,7 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 
 </br>
 
-## Backend Path - Golang - Deeper Learning
+## Back-end Developer Path - Deeper Learning
 
 | Course Name and Certificate                                                                                | Course Link                                                                                  |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
