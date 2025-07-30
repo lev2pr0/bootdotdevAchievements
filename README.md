@@ -23,9 +23,11 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 - [Build an Asteroids Game](https://github.com/lev2pr0/asteroids)
 - [Build an AI Agent](https://github.com/lev2pr0/aiagent)
 - [Personal Project 1: Bulk IP Whois](https://github.com/lev2pr0/ipwhois)
+- [Build a Static Site Generator](https://github.com/lev2pr0/ssg)
+
 <!--                              
 
-- [Build a Static Site Generator]()
+
 
 - [Build a Pokedex]()
 - [Build a Blog Aggregator]()
