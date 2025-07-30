@@ -10,7 +10,7 @@
 This Achievement Tracker helps me track my progress and milestones on Boot.dev. It keeps my achievements visible and keeps me motivated as I work through the Backend Developer Career Path.
 
 - 👨🏽‍💻 [Levar's Boot.dev Profile](https://www.boot.dev/u/lev2pr0)
-- 📚 [Boot.dev Backend Developer Curriculum](https://www.boot.dev/tracks/backend-python-golang)
+- 📚 Back-end Developer Paths in [Python & Golang](https://www.boot.dev/tracks/backend-python-golang) and [TypeScript](https://www.boot.dev/tracks/backend-python-typescript)
 - ⭐ [Boot.dev Teaching and Learning Philosophy](https://blog.boot.dev/about/)
 - ⚡️ [Boot.dev Stats Badge](https://github.com/lev2pr0/bootdotdevAchievements/tree/main?tab=readme-ov-file#bootdev-stats)
 
