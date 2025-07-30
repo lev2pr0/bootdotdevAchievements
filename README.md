@@ -12,11 +12,11 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 - 👨🏽‍💻 [Levar's Boot.dev Profile](https://www.boot.dev/u/lev2pr0)
 - 📚 Back-end Developer Paths in [Python & Golang](https://www.boot.dev/tracks/backend-python-golang) and [TypeScript](https://www.boot.dev/tracks/backend-python-typescript)
 - ⭐ [Boot.dev Teaching and Learning Philosophy](https://blog.boot.dev/about/)
-- ⚡️ [Boot.dev Stats Badge](https://github.com/lev2pr0/bootdotdevAchievements/tree/main?tab=readme-ov-file#bootdev-stats)
 
-
-</br>
-
+<p align="left">
+  <a href="https://www.boot.dev/u/lev2pr0">  
+  <img src="https://api.boot.dev/v1/users/public/bb3ebf0f-1e88-46f0-8682-fa88ff98bfb4/thumbnail" width="400" height="400">
+</p>
 
 ## Guided Projects - Repositories' Table of Contents
 - [Build a Bookbot](https://github.com/lev2pr0/bookbot)
@@ -82,15 +82,6 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 <!--
 | [Learn Coding Basics](https://www.boot.dev/certificates/2b7c9a77-e8c6-443a-afc1-d6aef7d618f0)              | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
 --->
-
-</br>
-
-## Boot.dev Stats
-
-<p align="left">
-  <a href="https://www.boot.dev/u/lev2pr0">  
-  <img src="https://api.boot.dev/v1/users/public/bb3ebf0f-1e88-46f0-8682-fa88ff98bfb4/thumbnail" >
-</p>
 
 <br><br/>
 
