@@ -38,22 +38,22 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 
 ## Back-end Developer Path
 
-| Course Name and Certificate                                                                                | Course Link                                                                                  |
-| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [Learn Coding Basics](https://www.boot.dev/certificates/2b7c9a77-e8c6-443a-afc1-d6aef7d618f0)              | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
-| [Learn Linux](https://www.boot.dev/certificates/3b7d5077-1a44-4757-91b6-0f4d0858bfd1)                      | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                         |
-| [Learn Git](https://www.boot.dev/certificates/35846e49-e2ff-4492-be1f-71a0330534ec)                        | [Git](https://www.boot.dev/courses/learn-git)                                                |
-| [Build a Bookbot](https://www.boot.dev/certificates/26647931-1816-4849-bf4f-4b0db632cd1a)                  | [Python](https://www.boot.dev/courses/build-bookbot-python)                                  |
-| [Learn Object Oriented Programming](https://www.boot.dev/certificates/1fa594db-b854-454b-a3dc-7eee3d118573)| [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)              |
-| [Build an Asteroids Game](https://www.boot.dev/certificates/84740883-6723-42f0-ad99-25ae3c4475c7)          | [Python](https://www.boot.dev/courses/build-asteroids-python)                                |
-| [Learn Functional Programming](https://www.boot.dev/certificates/1de7d024-f398-40ed-ad5b-f64684d5a9fc)     | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                   |
-| [Build an AI Agent](https://www.boot.dev/certificates/ea0553d7-1625-4e96-8a59-b6a0db7b00de)                | [Python](https://www.boot.dev/courses/build-ai-agent-python)                                 |
-| [Personal Project 1](https://www.boot.dev/certificates/cb8572d7-be86-4b84-8795-801a74284c71)               | [My choice](https://www.boot.dev/courses/build-personal-project-1)                           |
-
+| Course Name and Certificate                                                                                    | Course Link                                                                                  |
+| -------------------------------------------------------------------------------------------------------------  | -------------------------------------------------------------------------------------------- |
+| [Learn Coding Basics](https://www.boot.dev/certificates/2b7c9a77-e8c6-443a-afc1-d6aef7d618f0)                  | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
+| [Learn Linux](https://www.boot.dev/certificates/3b7d5077-1a44-4757-91b6-0f4d0858bfd1)                          | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                         |
+| [Learn Git](https://www.boot.dev/certificates/35846e49-e2ff-4492-be1f-71a0330534ec)                            | [Git](https://www.boot.dev/courses/learn-git)                                                |
+| [Build a Bookbot](https://www.boot.dev/certificates/26647931-1816-4849-bf4f-4b0db632cd1a)                      | [Python](https://www.boot.dev/courses/build-bookbot-python)                                  |
+| [Learn Object Oriented Programming](https://www.boot.dev/certificates/1fa594db-b854-454b-a3dc-7eee3d118573)    | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)              |
+| [Build an Asteroids Game](https://www.boot.dev/certificates/84740883-6723-42f0-ad99-25ae3c4475c7)              | [Python](https://www.boot.dev/courses/build-asteroids-python)                                |
+| [Learn Functional Programming](https://www.boot.dev/certificates/1de7d024-f398-40ed-ad5b-f64684d5a9fc)         | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                   |
+| [Build an AI Agent](https://www.boot.dev/certificates/ea0553d7-1625-4e96-8a59-b6a0db7b00de)                    | [Python](https://www.boot.dev/courses/build-ai-agent-python)                                 |
+| [Personal Project 1](https://www.boot.dev/certificates/cb8572d7-be86-4b84-8795-801a74284c71)                   | [My choice](https://www.boot.dev/courses/build-personal-project-1)                           |
+| [Learn Data Structures and Algorithms](https://www.boot.dev/certificates/92a63909-0cde-4b6d-acb9-711ca8e199a2) | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)           |
 
 
 <!---
-| Learn Data Structures and Algorithms                                                                       | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)           |
+
 | Build a Static Site Generator                                                                              | [Python](https://www.boot.dev/courses/build-static-site-generator-python)                    |
 | Learn Memory Management                                                                                    | [C](https://www.boot.dev/courses/learn-memory-management-c)                                  |
 | Learn Golang                                                                                               | [Go](https://www.boot.dev/courses/learn-golang)                                              |
