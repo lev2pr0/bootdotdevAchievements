@@ -10,7 +10,7 @@
 This Achievement Tracker helps me track my progress and milestones on Boot.dev. It keeps my achievements visible and keeps me motivated as I work through the DevOps Engineering Path.
 
 - 👨🏽‍💻 [Levar's Boot.dev Profile](https://www.boot.dev/u/lev2pr0)
-- 📚 Back-end Developer Paths in [DevOps Engineering (Python & Go)](https://www.boot.dev/paths/devops?tech=python-golang)
+- 📚 Back-end Developer Paths in [Data Analyst (Python)](https://www.boot.dev/paths/data-analyst?tech=python)
 - ⭐ [Boot.dev Teaching and Learning Philosophy](https://blog.boot.dev/about/)
 
 <p align="left">
@@ -31,7 +31,7 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 
 </br>
 
-## DevOps Engineer Path (Python & Go)
+## Data Analyst Path (Python)
 
 | Course Name and Certificate                                                                                    | Course Link                                                                                  |
 | -------------------------------------------------------------------------------------------------------------  | -------------------------------------------------------------------------------------------- |
@@ -50,24 +50,14 @@ This Achievement Tracker helps me track my progress and milestones on Boot.dev. 
 
 <!---
 
-| Learn Golang                      | [Go](https://www.boot.dev/courses/learn-golang)                                            |
-| Learn Operating Systems           | Go                                                                                         |
-| Learn Networking                  | Go                                                                                         |
-| Learn HTTP Clients                | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                               |
-| Learn SQL                         | [SQL](https://www.boot.dev/courses/learn-sql)                                              |
-| Learn HTTP Servers                | [Go](https://www.boot.dev/courses/learn-http-servers-golang)                               |
-| Learn Server Administration       | Bash                                                                                       |
-| Learn Ansible                     | Ansible                                                                                    |
-| Learn Docker                      | [Docker](https://www.boot.dev/courses/learn-docker)                                        |
-| Learn Logging and Telemetry       | [Go, Grafana, Prometheus](https://www.boot.dev/courses/learn-logging-observability-golang) |
-| Learn CI/CD                       | [Docker + GitHub Actions + Go](https://www.boot.dev/courses/learn-ci-cd-github-docker)     |
-| Learn Cloud Infrastructure        | [AWS](https://www.boot.dev/courses/learn-aws)                                              |
-| Learn Infrastructure as Code      | Terraform                                                                                  |
-| Learn Kubernetes                  | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)                                |
-| Learn Web Security                | Go                                                                                         |
-| Learn AI Coding                   | Python + OpenCode                                                                          |
-| Capstone Project                  | [Your choice](https://www.boot.dev/courses/build-capstone-project)                         |
-| Learn to Find a Job               | [Job Search](https://www.boot.dev/courses/learn-job-search)                                |
+| Learn SQL                            | [SQL](https://www.boot.dev/courses/learn-sql)                                              |
+| Learn HTTP Clients                   | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                               |
+| Build a Web Scraper                  | [Python](https://www.boot.dev/courses/build-web-scraper-python)                                                                                           |
+| Learn Pandas                         | [Pandas](https://www.boot.dev/courses/learn-pandas)                                                                                          |
+| Learn Power BI                       | [PowerBI](https://www.boot.dev/courses/learn-power-bi)                                                                                           |
+| Learn Retrieval Augmented Generation | [Python](https://www.boot.dev/courses/learn-retrieval-augmented-generation)                                                                                            |
+| Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                         |
+| Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                |
 
 --->
 
