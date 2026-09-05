@@ -7,7 +7,7 @@
 
 ## Purpose
 
-This Achievement Tracker helps me track my progress and milestones on Boot.dev. It keeps my achievements visible and keeps me motivated as I work through the DevOps Engineering Path.
+This Achievement Tracker helps me track my progress and milestones on Boot.dev. It keeps my achievements visible and keeps me motivated as I work through the Data Analyst Path.
 
 - 👨🏽‍💻 [Levar's Boot.dev Profile](https://www.boot.dev/u/lev2pr0)
 - 📚 Back-end Developer Paths in [Data Analyst (Python)](https://www.boot.dev/paths/data-analyst?tech=python)
